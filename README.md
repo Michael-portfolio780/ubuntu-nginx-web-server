@@ -1,5 +1,6 @@
 # ubuntu-nginx-web-server
 Connected securely to Ubuntu EC2 using SSH key pair authentication, created firewall and user
+
 sudo apt update
 sudo apt upgrade -y
 sudo apt install nginx -y
